@@ -21,7 +21,8 @@ jsp+ssm框架（spring、springMVC、mybaits）实现的酒店预定管理系统
 ````
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
 2. 将项目中db.properties配置文件中的数据库配置改为自己的配置
-3. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;若为maven项目，导入成功后请执行maven clean;maven install命令，配置tomcat，然后运行；
+3. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
+若为maven项目，导入成功后请执行maven clean;maven install命令，配置tomcat，然后运行；
 4. 运行项目，输入localhost:8080/xxx 登录
 5. 管理员账户：admin  密码：admin
 普通账号：猿来入此 密码：123456
